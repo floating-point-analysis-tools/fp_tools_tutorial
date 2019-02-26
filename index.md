@@ -3,7 +3,7 @@ layout: page
 comments: false
 ---
 
-<img src="img/tutorial-banner-2.jpg" alt="banner" style="width:1200px;" />
+<img src="img/tutorial-banner-5.png" alt="banner" style="width:1200px;" />
 
 
 ## Background
