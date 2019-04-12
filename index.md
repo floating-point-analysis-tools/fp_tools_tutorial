@@ -23,6 +23,10 @@ given that ensuring numerical reproducibility in these systems pose a very diffi
 This tutorial demonstrates tools that are available today to analyze 
 floating-point scientific software.
 
+## SC19 Tutorial Material
+
+Click [here](#) to access the material of the SC19 tutorial.
+
 ## Tools
 
 ### FPChecker
