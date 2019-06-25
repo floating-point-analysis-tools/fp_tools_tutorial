@@ -5,27 +5,21 @@ comments: false
 
 <img src="img/tutorial-banner-5.png" alt="banner" style="width:1200px;" />
 
+![Group picture](/images/logo.png)
 
 ## Background
 
-While scientific software is widely used in several disciplines, developing 
-accurate and reliable scientific software is notoriously difficult.
-One of the most serious difficulties come from dealing with floating-point 
-arithmetic to perform numerical computations. Round-off errors occur and 
-accumulate at all levels of computation, and 
-compiler optimizations and low precision arithmetic can significantly 
-affect the final computational results.
+<p class="message">
+Dealing with floating-point arithmetic to perform numerical computations is challenging. Not only do round-off errors occur and accumulate at all levels of computation, but also
+compiler optimizations and low precision arithmetic can significantly affect the final computational results. With accelerators dominating HPC systems, computational scientists are faced with even bigger challenges to program reliable and reproducible floating-point programs.
 
-With accelerators such as GPUs dominating high-performance 
-computing systems, computational scientists are faced with even bigger challenges, 
-given that ensuring numerical reproducibility in these systems pose a very difficult problem.
+This tutorial demonstrates tools that are available today to analyze floating-point scientific software.
+</p>
 
-This tutorial demonstrates tools that are available today to analyze 
-floating-point scientific software.
+## Tutorials Material
 
-## SC19 Tutorial Material
-
-Click [here](#) to access the material of the SC19 tutorial.
+- [PEARC19](/pearc19), Chicago, Illinois, USA, Jul 30th, 2019
+- [SC19](#), Devnver, Colorado, USA, Nov 17th, 2019
 
 ## Tools
 
