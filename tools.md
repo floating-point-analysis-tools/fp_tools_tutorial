@@ -3,12 +3,47 @@ layout: page
 title: Tools
 ---
 
-## Flit
+### FPChecker
 
-## FPChecker
+FPChecker is tool to detect floating-point exceptions (e.g.,
+NaNs, division by zero) on NVIDIA GPUs. It uses clang/LLVM to compile and
+instrument CUDA kernels. The tool informs to users the location where 
+exceptions occurred (file and line number).
 
-## Precimonious
+[https://github.com/LLNL/FPChecker](https://github.com/LLNL/FPChecker)
 
-## ADAPT
+### FLiT
 
-Scientific software is central to the practice of research computing. While scientific software is widely used in several science and engineering disciplines to simulate real-world phenomena, developing accurate and reliable scientific software is notoriously difficult. One of the most serious difficulties come from dealing with floating-point arithmetic to perform numerical computations. Round-off errors occur and accumulate at all levels of computation, and compiler optimizations and low precision arithmetic can significantly affect the final computational results. With accelerators such as GPUs dominating high-performance computing systems, computational scientists are faced with even bigger challenges, given that ensuring numerical reproducibility in these systems pose a very difficult problem. This tutorial will demonstrate tools that are available today to analyze floating-point scientific software. We focus on tools that allow programmers to get insight about how different aspects of floating-point arithmetic affect their code and how to fix potential bugs. The tools presented in the tutorial will allow programmers to understand how compiler optimizations affect floating-point computations, detect hidden floating-point exceptions on GPUs, reduce floating-point precision to obtain performance speedups, and understand the sensitivity of different regions of the code to floating-point rounding errors.
+FLiT (Floating-point Litmus Tests) is a C++ test 
+infrastructure for detecting variability in 
+floating-point code caused by variations in 
+compiler code generation, hardware and execution environments.
+
+[https://github.com/PRUNERS/FLiT](https://github.com/PRUNERS/FLiT)
+
+### ARCHER
+
+Archer is a data race detector for OpenMP programs.
+Archer combines static and dynamic techniques to identify 
+data races in large OpenMP applications, leading to low runtime 
+and memory overheads, while still offering high accuracy and precision. 
+
+[https://github.com/PRUNERS/archer](https://github.com/PRUNERS/archer)
+
+### ADAPT
+
+ADAPT is a tool for mixed precision analysis. The tool uses 
+algorithmic differentiation to estimate the output error due to 
+lowering the precision of variables. ADAPT also provides a floating-point 
+rounding error sensitivity profile of the code. 
+
+[https://github.com/LLNL/adapt-fp](https://github.com/LLNL/adapt-fp)
+
+### Precimonious
+
+Precimonious is a framework to automatically tune
+the precision of floating-point variables. The tool allows users to specify
+a target error and performance threshold, and uses the clang/LLVM compiler
+a main compiler infrastructure.
+
+[https://github.com/corvette-berkeley/precimonious](https://github.com/corvette-berkeley/precimonious)
