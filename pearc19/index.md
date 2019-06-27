@@ -5,7 +5,9 @@ comments: false
 
 
 # Tutorial on Floating-Point Analysis Tools
-#### PEARC19, Chicago, Illinois, USA, Jul 30th, 2019 (1:30pm-5:00pm, Tutorial Half-day)
+#### PEARC19, Chicago, Illinois, USA <br />
+Jul 30th, 2019 <br />
+Time: 1:30pm-5:00pm (Tutorial Half-day)
 
 ### Schedule
 

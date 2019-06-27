@@ -5,21 +5,24 @@ comments: false
 
 <img src="img/tutorial-banner-5.png" alt="banner" style="width:1200px;" />
 
-![Group picture](/images/logo.png)
-
-## Background
-
-<p class="message">
-Dealing with floating-point arithmetic to perform numerical computations is challenging. Not only do round-off errors occur and accumulate at all levels of computation, but also
-compiler optimizations and low precision arithmetic can significantly affect the final computational results. With accelerators dominating HPC systems, computational scientists are faced with even bigger challenges to program reliable and reproducible floating-point programs.
-
-This tutorial demonstrates tools that are available today to analyze floating-point scientific software.
-</p>
-
 ## Tutorials Material
 
 - [PEARC19](/pearc19), Chicago, Illinois, USA, Jul 30th, 2019
-- [SC19](#), Devnver, Colorado, USA, Nov 17th, 2019
+- [SC19](#), Denver, Colorado, USA, Nov 17th, 2019
+
+## Background
+
+<!--
+<p class="message">
+</p>
+-->
+
+<p class="message">
+Dealing with floating-point arithmetic to perform numerical computations is challenging. Not only do round-off errors occur and accumulate at all levels of computation, but also
+compiler optimizations and low precision arithmetic can significantly affect the final computational results. With accelerators dominating HPC systems, computational scientists are faced with even bigger challenges to program reliable and reproducible floating-point programs. <br />
+
+This tutorial demonstrates tools that are available today to analyze floating-point scientific software.
+</p>
 
 ## Tools
 

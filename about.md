@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-![Group picture](/images/logo.png)
+<center>
+<img src="/images/tutorial_group_pic.jpg" alt="drawing" width="500"/>
+</center>
 
 We are a group of researchers and practitioners who are passionate about developing tools for floating-point analysis.
 
