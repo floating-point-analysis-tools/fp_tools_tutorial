@@ -5,7 +5,7 @@ comments: false
 
 <img src="img/tutorial-banner-5.png" alt="banner" style="width:1200px;" />
 
-## Tutorials Material
+## Tutorial Material
 
 - [PEARC19](/pearc19), Chicago, Illinois, USA, Jul 30th, 2019
 - [SC19](#), Denver, Colorado, USA, Nov 17th, 2019
