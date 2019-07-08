@@ -11,7 +11,7 @@ We are a group of researchers and practitioners who are passionate about develop
 
 ## Speakers
 
-* [Ignacio Laguna](http://lagunaresearch.org/) (organizer & main contact), Lawrence Livermore National Lab
+* [Ignacio Laguna](http://lagunaresearch.org/) (organizer), Lawrence Livermore National Lab
 * Michael Bentley, University of Utah
 * Ian Briggs, University of Utah
 * [Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah
