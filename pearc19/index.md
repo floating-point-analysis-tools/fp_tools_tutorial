@@ -25,7 +25,7 @@ Time: 1:30pm-5:00pm (Tutorial Half-day)
 | 3:30pm - 4:10pm |  **Precimonious**  | Cindy          | [slides](#), [source](./source/Module-Precimonious.zip)|
 |      |  Key Topics:       |           |        |
 |      |  - Floating-point mixed-precision, tuning       |           |        |
-| 4:10pm - 4:50pm |  **ADAPT**  | Harshitha          | [slides](#), [source](./source/Module-ADAPT.zip)|
+| 4:10pm - 4:50pm |  **ADAPT**  | Harshitha          | [slides](./slides/Module-ADAPT.pdf), [source](./source/Module-ADAPT.zip)|
 |      |  Key Topics:       |           |        |
 |      |  - Algorithmic differentiation, input sensitivity       |           |        |
 
