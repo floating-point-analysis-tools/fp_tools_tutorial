@@ -9,6 +9,16 @@ comments: false
 Jul 30th, 2019 <br />
 Time: 1:30pm-5:00pm (Tutorial Half-day)
 
+## Presenters
+
+* [Ignacio Laguna](http://lagunaresearch.org/) (organizer), Lawrence Livermore National Lab
+* Michael Bentley, University of Utah
+* Ian Briggs, University of Utah
+* [Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah
+* [Harshitha Menon](http://harshithamenon.com/), Lawrence Livermore National Lab
+* [Cindy Rubio González](https://web.cs.ucdavis.edu/~rubio/), University of California, Davis
+* Tristan Lucas Vanderbruggen, Lawrence Livermore National Lab
+
 ### Schedule
 
 | Time | Module | Presenter | Slides |
@@ -22,10 +32,10 @@ Time: 1:30pm-5:00pm (Tutorial Half-day)
 |      |  - Compiler optimizations, floating-point variability       |           |        |
 |      |  -        |           |        |
 | 3:00pm - 3:30pm     |  **Break**       |           |        |
-| 3:30pm - 4:10pm |  **Precimonious**  | Cindy          | [slides](#), [source](./source/Module-Precimonious.zip)|
+| 3:30pm - 4:10pm |  **Precimonious**  | Cindy          | [slides](./slides/Module-Precimonious.pdf), [source](./source/Module-Precimonious.zip)|
 |      |  Key Topics:       |           |        |
 |      |  - Floating-point mixed-precision, tuning       |           |        |
-| 4:10pm - 4:50pm |  **ADAPT**  | Harshitha          | [slides](./slides/Module-ADAPT.pdf), [source](./source/Module-ADAPT.zip)|
+| 4:10pm - 4:50pm |  **ADAPT**  | Tristan, Harshitha          | [slides](./slides/Module-ADAPT.pdf), [source](./source/Module-ADAPT.zip)|
 |      |  Key Topics:       |           |        |
 |      |  - Algorithmic differentiation, input sensitivity       |           |        |
 

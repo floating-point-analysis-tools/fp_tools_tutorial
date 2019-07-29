@@ -17,6 +17,7 @@ We are a group of researchers and practitioners who are passionate about develop
 * [Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah
 * [Harshitha Menon](http://harshithamenon.com/), Lawrence Livermore National Lab
 * [Cindy Rubio González](https://web.cs.ucdavis.edu/~rubio/), University of California, Davis
+* Tristan Lucas Vanderbruggen, Lawrence Livermore National Lab
 
 
 ## Contact
