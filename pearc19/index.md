@@ -68,5 +68,32 @@ The directory structure in your home directory will look like this:
 Each module directory contains directories for each exercise. Please run the exercises in each of them as indicated
 by the speaker.
 
+### AWS IP Addresses
+
+#### GPU modules (FPChecker)
+- 18.217.160.109 (master)
+- 13.59.35.192
+- 18.222.18.201
+- 18.220.28.170
+- 3.17.182.165
+- 52.15.126.212
+- 18.224.21.81
+- 18.217.90.15
+
+#### CPU modules (FLiT, Precimonious, ADAPT)
+- 18.218.102.119 (master)
+- 18.188.227.133
+- 3.17.12.64
+- 3.17.14.56
+- 13.58.5.162
+- 18.191.167.213
+- 18.191.201.118
+- 3.16.169.225
+
+Users and passwords will be provided during the tutorial.
+
+
+
+
 
 
