@@ -9,7 +9,7 @@ comments: false
 Jul 30th, 2019 <br />
 Time: 1:30pm-5:00pm (Tutorial Half-day)
 
-<span style="color:red">Your feedback is sincerely appreciated:</span> [Take survey](#)
+<span style="color:red">Your feedback is sincerely appreciated:</span> [Take survey](https://docs.google.com/forms/d/e/1FAIpQLSf_g7sBKNg76Z_Bn5vLPSTSUv-o8p30nFFJI16GDKJXqrFl-Q/viewform)
 
 ## Presenters
 
