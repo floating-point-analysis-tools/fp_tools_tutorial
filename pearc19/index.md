@@ -9,6 +9,8 @@ comments: false
 Jul 30th, 2019 <br />
 Time: 1:30pm-5:00pm (Tutorial Half-day)
 
+<span style="color:red">Your feedback is sincerely appreciated:</span> [Take survey](#)
+
 ## Presenters
 
 * [Ignacio Laguna](http://lagunaresearch.org/) (organizer), Lawrence Livermore National Lab
@@ -71,7 +73,7 @@ by the speaker.
 ### AWS IP Addresses
 
 #### GPU modules (FPChecker)
-- 18.217.160.109 (master)
+- 18.217.160.109
 - 13.59.35.192
 - 18.222.18.201
 - 18.220.28.170
@@ -81,7 +83,7 @@ by the speaker.
 - 18.217.90.15
 
 #### CPU modules (FLiT, Precimonious, ADAPT)
-- 18.218.102.119 (master)
+- 18.218.102.119
 - 18.188.227.133
 - 3.17.12.64
 - 3.17.14.56
