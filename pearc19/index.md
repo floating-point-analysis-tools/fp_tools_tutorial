@@ -40,6 +40,8 @@ Time: 1:30pm-5:00pm (Tutorial Half-day)
 | 4:10pm - 4:50pm |  **ADAPT**  | Tristan, Harshitha          | [slides](./slides/Module-ADAPT.pdf), [source](./source/Module-ADAPT.zip)|
 |      |  Key Topics:       |           |        |
 |      |  - Algorithmic differentiation, input sensitivity       |           |        |
+| 4:50pm - 5:00pm     |  Questions & Answers       |           |        |
+
 
 ### Access to AWS Instances
 
