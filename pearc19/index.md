@@ -11,6 +11,8 @@ Time: 1:30pm-5:00pm (Tutorial Half-day)
 
 <span style="color:red">Your feedback is sincerely appreciated:</span> [Take survey](https://docs.google.com/forms/d/e/1FAIpQLSf_g7sBKNg76Z_Bn5vLPSTSUv-o8p30nFFJI16GDKJXqrFl-Q/viewform)
 
+<p align="center">  <img src="./photos/IMG-2828.JPG"> </p>
+
 ## Presenters
 
 * [Ignacio Laguna](http://lagunaresearch.org/) (organizer), Lawrence Livermore National Lab
@@ -20,6 +22,8 @@ Time: 1:30pm-5:00pm (Tutorial Half-day)
 * [Harshitha Menon](http://harshithamenon.com/), Lawrence Livermore National Lab
 * [Cindy Rubio González](https://web.cs.ucdavis.edu/~rubio/), University of California, Davis
 * Tristan Lucas Vanderbruggen, Lawrence Livermore National Lab
+
+
 
 ### Schedule
 
