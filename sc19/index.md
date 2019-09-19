@@ -7,7 +7,9 @@ comments: false
 # Tutorial on Floating-Point Analysis and Reproducibility Tools for Scientific Software
 #### SC19, Denver, Colorado, USA <br />
 Nov 17th, 2019 <br />
-Time: 8:30am - 5pm (Full day tutorial)
+Time: 8:30am - 5pm (full day tutorial)
+
+<p align="center">  <img src="./photos/SC19-color-hor-small.jpg"> </p>
 
 <p align="center">  <img src="./photos/IMG-2828.JPG"> </p>
 
@@ -18,6 +20,7 @@ Time: 8:30am - 5pm (Full day tutorial)
 * Ian Briggs, University of Utah
 * [Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah
 * [Michael O. Lam](https://w3.cs.jmu.edu/lam2mo/), James Madison University
+* [Harshitha Menon](http://harshithamenon.com/), Lawrence Livermore National Laboratory
 * [Pavel Panchekha](https://pavpanchekha.com/), University of Utah
 * [Cindy Rubio González](https://web.cs.ucdavis.edu/~rubio/), University of California, Davis
 
@@ -29,7 +32,7 @@ Time: 8:30am - 5pm (Full day tutorial)
 | Time | Module | Presenter | Slides |
 |------|--------|-----------|--------|
 | 8:30 - 8:40am | Introduction |  Ignacio | [slides](#) |
-| 8:40 - 8:55am | Floating-point Background |  Ganesh | [slides](#) |
+| 8:40 - 8:55am | Floating-point background |  Ganesh | [slides](#) |
 | 8:55 - 9:35am |  **FPChecker**:  floating-point exceptions, GPUs, CUDA | Ignacio          | [slides](#), [source](#)|
 | 9:35 - 10:00am |  **ARCHER**:  data races, OpenMP  | Ian, Mike          | [slides](#), [source](#)|
 | 10:00 - 10:30am     |  **Break**       |           |        |
