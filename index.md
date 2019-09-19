@@ -7,8 +7,9 @@ comments: false
 
 ## Tutorial Material
 
+- [SC19](/sc19), Denver, Colorado, USA, Nov 17th, 2019
 - [PEARC19](/pearc19), Chicago, Illinois, USA, Jul 30th, 2019
-- [SC19](#), Denver, Colorado, USA, Nov 17th, 2019
+
 
 ## Background
 
