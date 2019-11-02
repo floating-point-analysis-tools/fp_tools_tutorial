@@ -19,6 +19,7 @@ Time: 8:30am - 5pm (full day tutorial)
 * Michael Bentley, University of Utah
 * Ian Briggs, University of Utah
 * [Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah
+* [Hui Guo](https://hguo15.github.io/huiguo.github.io/), University of California, Davis
 * [Michael O. Lam](https://w3.cs.jmu.edu/lam2mo/), James Madison University
 * [Harshitha Menon](http://harshithamenon.com/), Lawrence Livermore National Laboratory
 * [Pavel Panchekha](https://pavpanchekha.com/), University of Utah
