@@ -84,4 +84,10 @@ FPBench provides benchmarks, compilers, and standards for the floating-point res
 
 [https://github.com/FPBench/FPBench](https://github.com/FPBench/FPBench)
 
+### ReMPI
+
+ReMPI is a record-and-replay tool for MPI+OpenMP applications. It helps in debugging floating-point program
+executions that produce different floating-point results due to MPI non-determinism.
+
+[https://github.com/PRUNERS/ReMPI](https://github.com/PRUNERS/ReMPI)
 
