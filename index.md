@@ -71,3 +71,17 @@ a target error and performance threshold, and uses the clang/LLVM compiler
 a main compiler infrastructure.
 
 [https://github.com/corvette-berkeley/precimonious](https://github.com/corvette-berkeley/precimonious)
+
+### FloatSmith
+
+FloatSmith provides automated source-to-source tuning and transformation of floating-point code for mixed precision using three existing tools: 1) CRAFT, 2) ADAPT, and 3) TypeForge. The primary search loop is guided by CRAFT and uses TypeForge to prototype mixed-precision versions of an application. ADAPT results can optionally be used to help narrow the search space, and there are a variety of options to customize the search.
+
+[https://github.com/crafthpc/floatsmith](https://github.com/crafthpc/floatsmith)
+
+### FPBench
+
+FPBench provides benchmarks, compilers, and standards for the floating-point research community.
+
+[https://github.com/FPBench/FPBench](https://github.com/FPBench/FPBench)
+
+
