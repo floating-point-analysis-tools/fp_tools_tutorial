@@ -33,7 +33,7 @@ Time: 8:30am - 5pm (full day tutorial)
 |------|--------|-----------|--------|
 | 8:30 - 8:40am | Introduction |  Ignacio | [slides](#) |
 | 8:40 - 8:55am | Floating-point background |  Ganesh | [slides](#) |
-| 8:55 - 9:35am |  **FPChecker**:  floating-point exceptions, GPUs, CUDA | Ignacio          | [slides](./slides/Module-FPChecker.pdf), [source](./source/Module-FPchecker.zip)|
+| 8:55 - 9:35am |  **FPChecker**:  floating-point exceptions, GPUs, CUDA | Ignacio          | [slides](./slides/Module-FPChecker.pdf), [source](./source/Module-FPChecker.zip)|
 | 9:35 - 10:00am |  **ARCHER**:  data races, OpenMP  | Ian, Mike          | [slides](#), [source](#)|
 | 10:00 - 10:30am     |  **Break**       |           |        |
 | 10:30 - 11:30am |  **FLiT**: floating-point variability, compiler optimizations  | Ian, Mike          | [slides](#), [source](#)|
