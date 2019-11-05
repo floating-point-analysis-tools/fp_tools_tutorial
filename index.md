@@ -45,14 +45,6 @@ compiler code generation, hardware and execution environments.
 
 [https://github.com/PRUNERS/FLiT](https://github.com/PRUNERS/FLiT)
 
-### ARCHER
-
-Archer is a data race detector for OpenMP programs.
-Archer combines static and dynamic techniques to identify 
-data races in large OpenMP applications, leading to low runtime 
-and memory overheads, while still offering high accuracy and precision. 
-
-[https://github.com/PRUNERS/archer](https://github.com/PRUNERS/archer)
 
 ### ADAPT
 
@@ -72,6 +64,12 @@ a main compiler infrastructure.
 
 [https://github.com/corvette-berkeley/precimonious](https://github.com/corvette-berkeley/precimonious)
 
+### HiFPTuner
+
+HiFPTuner is a dynamic precision tuner. Different from other tuners, it explores the community structure of the floating-point variables and uses the community structure to guide precision tuning to find better precision configurations in less time.
+
+[https://github.com/ucd-plse/HiFPTuner](https://github.com/ucd-plse/HiFPTuner) 
+
 ### FloatSmith
 
 FloatSmith provides automated source-to-source tuning and transformation of floating-point code for mixed precision using three existing tools: 1) CRAFT, 2) ADAPT, and 3) TypeForge. The primary search loop is guided by CRAFT and uses TypeForge to prototype mixed-precision versions of an application. ADAPT results can optionally be used to help narrow the search space, and there are a variety of options to customize the search.
@@ -90,4 +88,13 @@ ReMPI is a record-and-replay tool for MPI+OpenMP applications. It helps in debug
 executions that produce different floating-point results due to MPI non-determinism.
 
 [https://github.com/PRUNERS/ReMPI](https://github.com/PRUNERS/ReMPI)
+
+### ARCHER
+
+Archer is a data race detector for OpenMP programs.
+Archer combines static and dynamic techniques to identify 
+data races in large OpenMP applications, leading to low runtime 
+and memory overheads, while still offering high accuracy and precision. 
+
+[https://github.com/PRUNERS/archer](https://github.com/PRUNERS/archer)
 
