@@ -33,12 +33,12 @@ Time: 8:30am - 5pm (full day tutorial)
 | Time | Module | Presenter | Slides |
 |------|--------|-----------|--------|
 | 8:30 - 8:40am | Introduction |  Ignacio | [slides](#) |
-| 8:40 - 8:55am | Floating-point background |  Ganesh | [slides](#) |
+| 8:40 - 8:55am | Floating-point background |  Ganesh | [slides](./slides/Ganesh_introduction.pdf) |
 | 8:55 - 9:35am |  **FPChecker**:  floating-point exceptions, GPUs, CUDA | Ignacio          | [slides](./slides/Module-FPChecker.pdf), [source](./source/Module-FPChecker.zip)|
-| 9:35 - 10:00am |  **ARCHER**:  data races, OpenMP  | Ian, Mike          | [slides](#), [source](#)|
+| 9:35 - 10:00am |  **ARCHER**:  data races, OpenMP  | Ian, Mike          | [slides](./slides/Module-ARCHER.pdf), [source](#)|
 | 10:00 - 10:30am     |  **Break**       |           |        |
-| 10:30 - 11:30am |  **FLiT**: floating-point variability, compiler optimizations  | Ian, Mike          | [slides](#), [source](#)|
-| 11:30 - 12:00pm |  **ReMPI**: MPI, floating-point variability  | Ian, Mike          | [slides](#), [source](#)|
+| 10:30 - 11:30am |  **FLiT**: floating-point variability, compiler optimizations  | Ian, Mike          | [slides](./slides/Module-FLiT.pdf), [source](#)|
+| 11:30 - 12:00pm |  **ReMPI**: MPI, floating-point variability  | Ian, Mike          | [slides](./slides/Module-ReMPI.pdf), [source](#)|
 
 | 12:00 - 1:30pm |  **Lunch Break**       |  (pay on your own)         |        |
 
@@ -47,10 +47,10 @@ Time: 8:30am - 5pm (full day tutorial)
 | Time | Module | Presenter | Slides |
 |------|--------|-----------|--------|
 | 1:30 - 1:35pm | Afternoon overview |  Ignacio | [slides](#) |
-| 1:35 - 2:45pm |  **Precimonious & HiFPTuner**: mixed-precision tuning  | Cindy          | [slides](#), [source](#)|
-| 2:45 - 3:00pm |  **FPBench**: benchamrks for floating-point | Pavel          | [slides](#), [source](#)|
+| 1:35 - 2:45pm |  **Precimonious & HiFPTuner**: mixed-precision tuning  | Cindy          | [slides](./slides/Module-Preci_HiFPTuner.pdf), [source](#)|
+| 2:45 - 3:00pm |  **FPBench**: benchamrks for floating-point | Pavel          | [slides](./slides/Module-FPBench.pdf), [source](#)|
 | 3:00 - 3:30pm     |  **Break**       |           |        |
-| 3:30 - 4:50pm |  **ADAPT, FloatSmith**: algorithmic differentiation, tuning  | Mike          | [slides](#), [source](#)|
+| 3:30 - 4:50pm |  **ADAPT, FloatSmith**: algorithmic differentiation, tuning  | Mike          | [slides](./slides/Module-ADAPT_FloatSmith.pdf), [source](#)|
 | 4:50 - 5:00pm     |  Questions & Answers       |           |        |
 
 
