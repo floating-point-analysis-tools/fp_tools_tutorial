@@ -9,6 +9,10 @@ comments: false
 Nov 17th, 2019 <br />
 Time: 8:30am - 5pm (full day tutorial)
 
+<p align="center">   
+<a href="https://integrus.cs.utah.edu/">Get AWS Credentials Here</a>
+</p>
+
 <p align="center">  <img src="./photos/SC19-color-hor-small.jpg"> </p>
 
 <p align="center">  <img src="./photos/IMG-2828.JPG"> </p>
@@ -56,8 +60,9 @@ Time: 8:30am - 5pm (full day tutorial)
 
 ### Access to AWS Instances
 
-We provide exercises for each module in AWS instances. You will be given a username and password,
-along with the IP address of the instance. You can access the instance via ssh as follows:
+We provide exercises for each module in AWS instances. You can get a username, password,
+along with the IP address of an instance [here](https://integrus.cs.utah.edu/). 
+You can access the instance via ssh as follows:
 
 ```
 ssh [USERNAME]@[IP ADDRESS]
