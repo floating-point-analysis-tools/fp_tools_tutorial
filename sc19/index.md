@@ -36,7 +36,7 @@ Time: 8:30am - 5pm (full day tutorial)
 
 | Time | Module | Presenter | Slides |
 |------|--------|-----------|--------|
-| 8:30 - 8:40am | Introduction (housekeeping) |  Ignacio | [slides](#) |
+| 8:30 - 8:40am | Introduction (housekeeping) |  Ignacio | [slides](./slides/intro-Ignacio.pdf) |
 | 8:40 - 8:55am | Floating-point background |  Ganesh | [slides](./slides/Ganesh_introduction.pdf) |
 | 8:55 - 9:35am |  **FPChecker**:  floating-point exceptions, GPUs, CUDA | Ignacio          | [slides](./slides/Module-FPChecker.pdf), [source](./source/Module-FPChecker.zip)|
 | 9:35 - 10:00am |  **ARCHER**:  data races, OpenMP  | Ian, Mike          | [slides](./slides/Module-ARCHER.pdf), [source](#)|
@@ -50,7 +50,7 @@ Time: 8:30am - 5pm (full day tutorial)
 
 | Time | Module | Presenter | Slides |
 |------|--------|-----------|--------|
-| 1:30 - 1:35pm | Afternoon overview |  Ignacio | [slides](#) |
+| 1:30 - 1:35pm | Afternoon overview |  Ignacio | [slides](./slides/intro-Ignacio.pdf) |
 | 1:35 - 2:45pm |  **Precimonious & HiFPTuner**: mixed-precision tuning  | Cindy          | [slides](./slides/Module-Preci_HiFPTuner.pdf), [source](#)|
 | 2:45 - 3:00pm |  **FPBench**: benchamrks for floating-point | Pavel          | [slides](./slides/Module-FPBench.pdf), [source](#)|
 | 3:00 - 3:30pm     |  **Break**       |           |        |
