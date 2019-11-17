@@ -52,7 +52,7 @@ Time: 8:30am - 5pm (full day tutorial)
 |------|--------|-----------|--------|
 | 1:30 - 1:35pm | Afternoon overview |  Ignacio | [slides](./slides/intro-Ignacio.pdf) |
 | 1:35 - 2:45pm |  **Precimonious & HiFPTuner**: mixed-precision tuning  | Cindy          | [slides](./slides/Module-Preci_HiFPTuner.pdf), [source](./source/Module-Precimonious_HiFPTuner.zip)|
-| 2:45 - 3:00pm |  **FPBench**: benchamrks for floating-point | Pavel          | [slides](./slides/Module-FPBench.pdf), [source](#)|
+| 2:45 - 3:00pm |  **FPBench**:  floating-point benchmarks | Pavel          | [slides](./slides/Module-FPBench.pdf), [source](#)|
 | 3:00 - 3:30pm     |  **Break**       |           |        |
 | 3:30 - 4:50pm |  **ADAPT, FloatSmith**: algorithmic differentiation, tuning  | Mike          | [slides](./slides/Module-ADAPT_FloatSmith.pdf), [source](./source/Module-ADAPT_FloatSmith.zip)|
 | 4:50 - 5:00pm     |  Questions & Answers       |           |        |
