@@ -7,7 +7,8 @@ comments: false
 # Tutorial on Floating-Point Analysis and Reproducibility Tools for Scientific Software
 #### SC19, Denver, Colorado, USA <br />
 Nov 17th, 2019 <br />
-Time: 8:30am - 5pm (full day tutorial)
+Time: 8:30am - 5pm (full day tutorial) <br />
+Room: 405
 
 <p align="center">   
 <a href="https://integrus.cs.utah.edu/">Get AWS Credentials Here</a>
