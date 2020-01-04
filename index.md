@@ -7,6 +7,7 @@ comments: false
 
 ## Tutorial Material
 
+- [LANL](/LANL), January, 2020
 - [SC19](/sc19), Denver, Colorado, USA, Nov 17th, 2019
 - [PEARC19](/pearc19), Chicago, Illinois, USA, Jul 30th, 2019
 
