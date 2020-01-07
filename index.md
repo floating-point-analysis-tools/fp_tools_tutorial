@@ -99,3 +99,7 @@ and memory overheads, while still offering high accuracy and precision.
 
 [https://github.com/PRUNERS/archer](https://github.com/PRUNERS/archer)
 
+## Presentations
+
+01/07/2020:  [__Tools and Techniques for Floating-Point Analysis__](/slides/webinar-IDEAS-ilaguna.pdf), Ignacio Laguna, LLNL.
+
