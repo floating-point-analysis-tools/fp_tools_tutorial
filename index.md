@@ -26,6 +26,11 @@ compiler optimizations and low precision arithmetic can significantly affect the
 This tutorial demonstrates tools that are available today to analyze floating-point scientific software.
 </p>
 
+## Presentations
+
+- 02/04/2020:  [__Improving Reliability Through Analyzing and Debugging Floating-Point Software__](/slides/ignacio_laguna_ECP_2020.pdf), Ignacio Laguna, [2020 ECP Annual Meeting](https://ecpannualmeeting.com/),  Houston, TX.
+- 01/07/2020:  [__Tools and Techniques for Floating-Point Analysis__](/slides/webinar-IDEAS-ilaguna.pdf), Ignacio Laguna, LLNL.
+
 ## Tools
 
 ### FPChecker
@@ -99,7 +104,5 @@ and memory overheads, while still offering high accuracy and precision.
 
 [https://github.com/PRUNERS/archer](https://github.com/PRUNERS/archer)
 
-## Presentations
 
-01/07/2020:  [__Tools and Techniques for Floating-Point Analysis__](/slides/webinar-IDEAS-ilaguna.pdf), Ignacio Laguna, LLNL.
 
