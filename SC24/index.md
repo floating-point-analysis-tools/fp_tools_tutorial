@@ -23,7 +23,7 @@ Time: 1:30pm - 5pm EST (half-day tutorial) <br />
 
 ### Presentation Slides
 
-* [Herbie](#)
-* [Ciel](#)
-* [GPU-FPX](#0)
+* [Herbie](./slides/TOPIC1-Odyssey.pdf)
+* [Ciel](./slides/TOPIC2-Ciel.pptx.pdf)
+* [GPU-FPX](./slides/TOPIC3-GPU-FPX-and-FTTN.pptx.pdf)
 
