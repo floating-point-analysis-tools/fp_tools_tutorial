@@ -11,7 +11,7 @@ Nov 17, 2024 <br />
 
 Time: 1:30pm - 5pm EST (half-day tutorial) <br />
 
-<p align="center">  <img src="./photos/SC24_tutorial.jpg"> </p>
+<p align="center">  <img src="./photos/SC24_tutorial_v2.jpg"> </p>
 
 ## Presenters
 
@@ -23,7 +23,8 @@ Time: 1:30pm - 5pm EST (half-day tutorial) <br />
 
 ### Presentation Slides
 
-* [Herbie](./slides/TOPIC1-Odyssey.pdf)
+* [Introduction](./slides/TOPIC0-Intro-Material-First-and-Second-Halves.ppt.pdf)
+* [Odyssey](./slides/TOPIC1-Odyssey.pdf)
 * [Ciel](./slides/TOPIC2-Ciel.pptx.pdf)
 * [GPU-FPX](./slides/TOPIC3-GPU-FPX-and-FTTN.pptx.pdf)
 
