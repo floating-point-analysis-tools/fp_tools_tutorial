@@ -11,7 +11,7 @@ Nov 17, 2024 <br />
 
 Time: 1:30pm - 5pm EST (half-day tutorial) <br />
 
-<p align="center">  <img src="./photos/SC24_tutorial_v2.jpg"> </p>
+<p align="center">  <img src="./photos/SC24_tutorial_v3.jpg"> </p>
 
 ## Presenters
 
