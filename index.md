@@ -21,10 +21,8 @@ comments: false
 -->
 
 <p class="message">
-Dealing with floating-point arithmetic to perform numerical computations is challenging. Not only do round-off errors occur and accumulate at all levels of computation, but also
-compiler optimizations and low precision arithmetic can significantly affect the final computational results. With accelerators dominating HPC systems, computational scientists are faced with even bigger challenges to program reliable and reproducible floating-point programs. <br />
-
-This tutorial demonstrates tools that are available today to analyze floating-point scientific software.
+Dealing with floating-point arithmetic in numerical computations presents significant hurdles. Round-off errors are pervasive, not only occurring initially when representing real numbers, but also accumulating throughout the computation. Furthermore, factors like aggressive compiler optimizations and the use of lower precision arithmetic can dramatically alter the final results. The increasing prevalence of accelerators in High-Performance Computing (HPC) systems exacerbates these difficulties, demanding that computational scientists navigate even greater complexities to ensure their floating-point programs are both reliable and reproducible. <br />
+Our tutorials showcase currently available tools designed to aid in the analysis of scientific software dealing with floating-point numbers.
 </p>
 
 ## Presentations
@@ -37,9 +35,11 @@ This tutorial demonstrates tools that are available today to analyze floating-po
 ### FPChecker
 
 FPChecker is tool to detect floating-point exceptions (e.g.,
-NaNs, division by zero) on NVIDIA GPUs. It uses clang/LLVM to compile and
-instrument CUDA kernels. The tool informs to users the location where 
-exceptions occurred (file and line number).
+NaNs, division by zero) and profile floating-point behavior. 
+It uses clang/LLVM to compile and
+instrument code. The tool informs to users the location where 
+exceptions occurred (file and line number), and can be used
+in MPI and OpenMP programs.
 
 [https://github.com/LLNL/FPChecker](https://github.com/LLNL/FPChecker)
 
@@ -88,22 +88,6 @@ FloatSmith provides automated source-to-source tuning and transformation of floa
 FPBench provides benchmarks, compilers, and standards for the floating-point research community.
 
 [https://github.com/FPBench/FPBench](https://github.com/FPBench/FPBench)
-
-### ReMPI
-
-ReMPI is a record-and-replay tool for MPI+OpenMP applications. It helps in debugging floating-point program
-executions that produce different floating-point results due to MPI non-determinism.
-
-[https://github.com/PRUNERS/ReMPI](https://github.com/PRUNERS/ReMPI)
-
-### ARCHER
-
-Archer is a data race detector for OpenMP programs.
-Archer combines static and dynamic techniques to identify 
-data races in large OpenMP applications, leading to low runtime 
-and memory overheads, while still offering high accuracy and precision. 
-
-[https://github.com/PRUNERS/archer](https://github.com/PRUNERS/archer)
 
 
 
