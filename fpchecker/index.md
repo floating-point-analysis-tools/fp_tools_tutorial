@@ -3,7 +3,7 @@ layout: default
 comments: false
 ---
 
-<p align="center">  <img src="./pictures/logo.jpg" width="200"> </p>
+<p align="center">  <img src="./pictures/logo.jpg" width="300"> </p>
 
 # FPChecker Tutorial:  Understand the Floating-Point Arithmetic Behavior of Your Code
 
