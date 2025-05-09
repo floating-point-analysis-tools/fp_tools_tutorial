@@ -12,11 +12,11 @@ This tutorial presents FPChecker, a tool that helps developers gain a better pic
 
 What you’ll learn in the tutorial:
 
-•  The installation and usage process of FPChecker
-•  How to identify the location of floating-point exceptions and other errors
-•  When and why computations get out of range for a given precision level
-•  Strategies to numerically profile mixed-precision (FP32 and FP64) software
-•  Strategies to control the runtime overhead when using the tool
+* The installation and usage process of FPChecker
+* How to identify the location of floating-point exceptions and other errors
+* When and why computations get out of range for a given precision level
+* Strategies to numerically profile mixed-precision (FP32 and FP64) software
+* Strategies to control the runtime overhead when using the tool
 
 The tutorial uses simple examples to showcase the tool's functionality, including examples of linear solvers, finite differences, and finite elements methods applied to simple 2D PDEs using C/C++. 
 
@@ -28,6 +28,24 @@ The tutorial uses Conda environments to build the tool and to run the examples o
 More about the tool: https://fpchecker.org/index.html
 
 ## Agenda
+
+| Content                           | Duration |
+| --------------------------------- | -------- |
+| Introduction & Motivation         | 10 min   |
+| FPChecker description             | 15 min   |
+| Installation                      | 15 min   |
+| Exercise 1 (exceptions)           | 10 min   |
+| Exercise 2 (FP32/FP64 precision)  | 10 min   |
+| Exercise 3 (annotations)          | 10 min   |
+| Exercise 4 (parallel code)        | 5 min    |
+| Conclusion / Q&A                  | 15 min   |
+
+Total time ~ 1.5 hours
+
+## Contact
+For questions, contact Ignacio Laguna <ilaguna@llnl.gov>.
+
+
 
 
 
