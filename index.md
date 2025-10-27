@@ -7,6 +7,7 @@ comments: false
 
 ## Tutorial Material
 
+- [SC25](/SC25), Nov, 2025
 - [SC24](/SC24), Nov, 2024
 - [LANL](/LANL), January, 2020
 - [SC19](/sc19), Denver, Colorado, USA, Nov 17th, 2019
