@@ -46,4 +46,7 @@ The third and final part of the tutorial will be a demo-only presentation of AMD
 * [NixNan](slides/NixNaN.pdf)
 * [FloatGuard](slides/FloatGuard.pdf)
 
-
+## Repositories:
+* FPChecker: [https://github.com/LLNL/FPChecker](https://github.com/LLNL/FPChecker), [Documentation](https://fpchecker.org)
+* NixNaN: 
+* FloatGuad: [https://github.com/LLNL/FloatGuard](https://github.com/LLNL/FloatGuard)
