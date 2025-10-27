@@ -41,9 +41,9 @@ The third and final part of the tutorial will be a demo-only presentation of AMD
 
 ### Presentation Slides
 
-* [Introduction](./slides/tutorial_intro.pdf)
-* [FPChecker](./slides/SC25-fpchecker_tutorial.pdf)
-* [NixNan](./slides/NixNaN.pdf)
-* [FloatGuard](./slides/FloatGuard.pdf)
+* [Introduction](slides/tutorial_intro.pdf)
+* [FPChecker](slides/SC25-fpchecker_tutorial.pdf)
+* [NixNan](slides/NixNaN.pdf)
+* [FloatGuard](slides/FloatGuard.pdf)
 
 
