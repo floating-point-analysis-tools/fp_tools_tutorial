@@ -56,5 +56,5 @@ An overview video of the tutorial is at [https://lnkd.in/g6tU8FEV](https://lnkd.
 
 ## Repositories:
 * FPChecker: [https://github.com/LLNL/FPChecker](https://github.com/LLNL/FPChecker), [Documentation](https://fpchecker.org)
-* NixNaN: 
+* NixNaN: [https://github.com/parfloat/nixnan](https://github.com/parfloat/nixnan)
 * FloatGuard: [https://github.com/LLNL/FloatGuard](https://github.com/LLNL/FloatGuard)
