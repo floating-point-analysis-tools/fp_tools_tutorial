@@ -32,7 +32,7 @@ The tutorial also allocates question/answer time to address real situations face
 
 ## Note for Attendees
 
-An overview video of the tutorial is at [https://lnkd.in/g6tU8FEV](https://lnkd.in/g6tU8FEV)).
+An overview video of the tutorial is at [https://youtu.be/1Ka8g_06Nxg?si=EpYCeuADEVk2qT4u](https://youtu.be/1Ka8g_06Nxg?si=EpYCeuADEVk2qT4u)).
 
 * **FPChecker** is about LLVM-based Floating-Point Exception Tracing. Those who want to follow along the FPChecker exercises on Mac OS or Linux may kindly install the [Conda](https://www.anaconda.com/) environment (instructions for Mac are provided at [https://youtu.be/DNu8pQOYRGg](https://youtu.be/DNu8pQOYRGg).
 * **GPU-FPX** (and its extension NixNan), will be a demo-only presentation of NVIDIA SIMT-Core and Tensor-Core Binary Instrumentation-based Floating-Point Exception Tracing.
