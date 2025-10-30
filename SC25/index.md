@@ -10,7 +10,7 @@ comments: false
 Nov 16, 2025 <br />
 
 Time: 8:30pm - 12pm CST (half-day tutorial) <br />
-Location: America’s Center Convention Complex, Room 121 <br />
+Location: America's Center Convention Complex, Room 121 <br />
 
 ## [Click Here for Tutorial Slides (PDF)](./slides/SC25-Tutorial-FP_tools.pdf)
 
@@ -51,10 +51,10 @@ An overview video of the tutorial is at [https://youtu.be/1Ka8g_06Nxg?si=EpYCeuA
 
 * [Introduction](slides/tutorial_intro.pdf)
 * [FPChecker](slides/FPChecker_tutorial.pdf)
-* [NixNan](slides/NixNaN.pdf)
+* [GPU-FPX](slides/NixNaN.pdf)
 * [FloatGuard](slides/FloatGuard.pdf)
 
 ## Repositories:
 * FPChecker: [https://github.com/LLNL/FPChecker](https://github.com/LLNL/FPChecker), [Documentation](https://fpchecker.org)
-* NixNaN: [https://github.com/parfloat/nixnan](https://github.com/parfloat/nixnan)
+* GPU-FPX (NixNaN): [https://github.com/parfloat/nixnan](https://github.com/parfloat/nixnan)
 * FloatGuard: [https://github.com/LLNL/FloatGuard](https://github.com/LLNL/FloatGuard)
