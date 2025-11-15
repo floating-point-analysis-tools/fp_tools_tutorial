@@ -12,7 +12,9 @@ Nov 16, 2025 <br />
 Time: 8:30pm - 12pm CST (half-day tutorial) <br />
 Location: America's Center Convention Complex, Room 121 <br />
 
+<!--
 ## [Click Here for Tutorial Slides (PDF)](./slides/SC25-Tutorial-FP_tools.pdf)
+-->
 
 <p align="center">  <img src="./photos/SC24_tutorial_v4.jpg"> </p>
 
