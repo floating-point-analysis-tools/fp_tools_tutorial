@@ -16,7 +16,7 @@ Location: America's Center Convention Complex, Room 121 <br />
 ## [Click Here for Tutorial Slides (PDF)](./slides/SC25-Tutorial-FP_tools.pdf)
 -->
 
-## Click [here](https://docs.google.com/forms/d/e/1FAIpQLSfCC137seHw__RrbCxqftwPP-mEQPEF2gbygIjUzw6GP4rFlQ/viewform) to fill up survey.
+## Click [here](https://docs.google.com/forms/d/e/1FAIpQLSfCC137seHw__RrbCxqftwPP-mEQPEF2gbygIjUzw6GP4rFlQ/viewform) to fill out survey.
 
 <p align="center">  <img src="./photos/SC24_tutorial_v4.jpg"> </p>
 
