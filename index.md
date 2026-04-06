@@ -28,8 +28,9 @@ Our tutorials showcase currently available tools designed to aid in the analysis
 
 ## Presentations
 
-- 02/04/2020:  [__Improving Reliability Through Analyzing and Debugging Floating-Point Software__](/slides/ignacio_laguna_ECP_2020.pdf), Ignacio Laguna, [2020 ECP Annual Meeting](https://ecpannualmeeting.com/),  Houston, TX.
-- 01/07/2020:  [__Tools and Techniques for Floating-Point Analysis__](/slides/webinar-IDEAS-ilaguna.pdf), Ignacio Laguna, LLNL.
+- 03/05/2026: [__Compiler-Assisted Relative Error Analysis for Floating-Point: Tools and Reproducibility Challenges__](/slides/ilaguna-SIAM-2026.pdf), Ignacio Laguna, [SIAM PP 2026](https://www.siam.org/conferences-events/siam-conferences/pp26/program/program-and-abstracts/), Berlin, Germany.
+- 02/04/2020: [__Improving Reliability Through Analyzing and Debugging Floating-Point Software__](/slides/ignacio_laguna_ECP_2020.pdf), Ignacio Laguna, [2020 ECP Annual Meeting](https://ecpannualmeeting.com/),  Houston, TX.
+- 01/07/2020: [__Tools and Techniques for Floating-Point Analysis__](/slides/webinar-IDEAS-ilaguna.pdf), Ignacio Laguna, LLNL.
 
 ## Tools
 
