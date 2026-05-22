@@ -56,7 +56,7 @@ TBD
 
 ## Presentation Slides
 
-The tutorial slides are here:  [slides](slides/FPChecker_tutorial.pdf)
+The tutorial slides are here:  [slides](slides/ISC26-fpchecker_tutorial.pdf)
 
 ## Repositories:
 
