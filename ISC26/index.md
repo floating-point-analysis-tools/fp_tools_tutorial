@@ -14,8 +14,10 @@ Location: CCH – Congress Center Hamburg, Room: Hall X12 - 1st Floor <br />
 
 <!--
 ## Click [here](#) to fill out survey.
-<p align="center">  <img src="./photos/SC24_tutorial_v4.jpg"> </p>
 -->
+
+<p align="center">  <img src="./photos/SC24_tutorial_v4.jpg"> </p>
+
 
 ## Description
 
