@@ -6,11 +6,13 @@ comments: false
 
 # Navigating Mixed-Precision: Tools and Techniques for Floating-Point Error Profiling
 
-#### SC26, Chicago <br />
-November 16, 2026 <br />
+#### SC26, Chicago 
 
-Time: 1:30pm - 5:00pm CST (half-day tutorial) <br />
-Location: McCormick Place, Chicago, Room: W184b-c <br />
+November 16, 2026 
+
+Time: 1:30pm - 5:00pm CST (half-day tutorial) \
+
+Location: McCormick Place, Chicago, Room: W184b-c 
 
 <!--
 ## Click [here](#) to fill out survey.
@@ -64,10 +66,8 @@ will apply these tools to larger numerical libraries (e.g., Hypre).
 
 ## Presentation Slides
 
-<!--
-The tutorial slides are here:  [slides](slides/ISC26-fpchecker_tutorial.pdf)
--->
-The tutorial slides are here:  [slides](#)
+* FPChecker [slides](slides/SC26-fpchecker_tutorial.pdf)
+* NixNaN [slides](slides/SC26-Half-Day-Tutorial-Mixed-Precision-Insights-NixNan-Utah.pdf)
 
 ## Repositories:
 
