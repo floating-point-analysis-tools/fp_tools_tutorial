@@ -67,7 +67,7 @@ will apply these tools to larger numerical libraries (e.g., Hypre).
 ## Presentation Slides
 
 * FPChecker [slides](slides/SC26-fpchecker_tutorial.pdf)
-* NixNaN [slides](slides/SC26-Half-Day-Tutorial-Mixed-Precision-Insights-NixNan-Utah.pdf)
+* NixNaN [slides](slides/NixNan-Nov16.pdf)
 
 ## Repositories:
 
